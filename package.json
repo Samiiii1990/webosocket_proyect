@@ -1,0 +1,29 @@
+{
+  "name": "websocket_proyect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "react-dom": "^17.0.1",
+    "react-native-web": "^0.14.8",
+    "react": "^17.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samiiii1990/backend.git"
+  },
+  "keywords": [
+    "websocket"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samiiii1990/backend/issues"
+  },
+  "homepage": "https://github.com/Samiiii1990/backend#readme"
+}
